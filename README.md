@@ -1,6 +1,6 @@
 # 🚗 BMW Car Sales Classification App (Streamlit)
 
-A Streamlit-based interactive web app that classifies BMW car sales performance (`High` vs `Low`) using user-input specs — plus includes interactive data visualizations for analysis.
+A Streamlit based interactive web app that classifies BMW car sales performance (`High` vs `Low`) using user input specs plus includes interactive data visualizations for analysis.
 
 ---
 
